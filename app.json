@@ -1,0 +1,43 @@
+{
+  "pages": [
+     "page/order/aboutMins/aboutMins",
+    "page/views/about/about",
+    "page/views/index/index",
+    "page/views/menu/menu",
+    "page/order/aboutMins/aboutMins"
+  ],
+  "window": {
+    "enableWK": "YES",
+    "enableDSL": true,
+    "backgroundColor": "#F5F5F9",
+    "pullRefresh": false,
+    "allowsBounceVertical": true,
+    "titleBarColor": "#fff"
+  },
+  "tabBar": {
+    "textColor": "#404040",
+    "selectedColor": "#108ee9",
+    "backgroundColor": "#ffffff",
+    "items": [
+        {
+        "pagePath": "page/views/index/index",
+        "icon": "image/image/home.png",
+        "activeIcon": "image/image/home-b.png",
+        "name": "首頁"
+      },
+       {
+        "pagePath": "page/views/menu/menu",
+        "icon": "image/image/order.png",
+        "activeIcon": "image/image/order-b.png",
+        "name": "定単"
+      },{
+        "pagePath": "page/views/about/about",
+        "icon": "image/image/my.png",
+        "activeIcon": "image/image/my-b.png",
+        "name": "我的"
+      }
+    
+    ]
+  },
+  "debug": true
+}

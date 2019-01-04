@@ -1,0 +1,17 @@
+<view>
+  <view class="about-title" onTap="goMins">
+    <image class="def-user" src="/image/image/user.png" mode="aspectFit" /> 
+    <view class="about-mins">
+      <view class="about-name">张三</view>
+      <view class="ente-inform">北京XXXX科技有限公司，商户名称，最多两行，限制宽度超出显示…</view>
+    </view>
+    <image class="go-about"src="/image/image/icon_right.png" mode="aspectFit">
+  </view>
+  <view class="my-account">我的账户</view>
+  <view class="my-money">
+    <text>餐补账户</text><text>¥100.00</text>
+  </view>
+  <view class="my-money">
+    <text>餐补账户</text><text>¥100.00</text>
+  </view>
+</view>

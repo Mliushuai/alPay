@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "search-bar": "mini-antui/es/search-bar/index"
+  },
+  "component": true,
+  "defaultTitle": "首頁"
+}

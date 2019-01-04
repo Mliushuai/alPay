@@ -1,0 +1,59 @@
+.about-title {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 690rpx;
+  height: 121rpx;
+  padding: 70rpx 30rpx;
+  background-color: #57A6FF;
+}
+
+.def-user {
+  width: 100rpx;
+  height: 100rpx;
+}
+
+.about-mins {
+  padding-left: 40rpx;
+  margin-right: 40rpx;
+  color: white;
+}
+
+.about-name {
+  margin-bottom: 20rpx
+}
+
+.go-about {
+  width: 32rpx;
+  height: 52rpx;
+}
+
+.ente-inform {
+  width: 495rpx;
+  word-break: break-all;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  /** 对象作为伸缩盒子模型显示 **/
+  -webkit-box-orient: vertical;
+  /** 设置或检索伸缩盒对象的子元素的排列方式 **/
+  -webkit-line-clamp: 2;
+  /** 显示的行数 **/
+  overflow: hidden;
+  /** 隐藏超出的内容 **/
+}
+
+.my-account{
+  font-size: 24rpx;
+  color: #999999;
+  padding: 30rpx;
+  background-color: white
+}
+.my-money{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18rpx 30rpx;
+  background-color: white;
+  border-bottom: 1px solid #F9F9F9;
+  color: #666666;
+}

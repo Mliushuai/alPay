@@ -1,0 +1,14 @@
+<view>
+ <view class="about-mins-title">
+   <text>姓名</text> <text>张三</text>
+ </view>
+ <view class="about-mins-title">
+   <text>企业</text> <text class="company-mins">北京XXXX科技有限公司，商户名称，最多两行…</text>
+ </view>
+ <view class="about-mins-title">
+   <text>部门</text> <text>商业产品部</text>
+ </view>
+ <view class="about-mins-title">
+   <text>手机号</text> <text>130****5678</text>
+ </view>
+</view>
